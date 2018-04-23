@@ -1,0 +1,56 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway);
+body {
+	font-family: raleway;
+	color: white;
+	background-color: black;
+}
+
+.container {
+	width: 70%;
+	margin: 0 auto;
+}
+
+#btnEvento1 {
+	color: white;
+	background-color: purple;
+	border-radius: 5%;
+	border: solid 1px white;
+	padding: 1%;
+	transition: 2s;
+}
+
+#btnEvento1:hover {
+	color: purple;
+	background-color: white;
+	transition: 2s;
+}
+
+#btnEvento2 {
+	color: white;
+	background-color: pink;
+	border-radius: 5%;
+	border: solid 1px white;
+	padding: 1%;
+	transition: 2s;
+}
+
+#btnEvento2:hover {
+	color: pink;
+	background-color: white;
+	transition: 2s;
+}
+
+#btnEvento3 {
+	color: white;
+	background-color: black;
+	border-radius: 5%;
+	border: solid 1px white;
+	padding: 1%;
+	transition: 2s;
+}
+
+#btnEvento3:hover {
+	color: black;
+	background-color: white;
+	transition: 2s;
+}
