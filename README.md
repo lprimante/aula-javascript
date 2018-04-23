@@ -1,6 +1,6 @@
-# Execícios de JavaScript
+# Exercícios de JavaScript
 
-Execícios com conceitos básicos sobre JavaScript realizados no curso do Reprograma no período de 23/03 à 06/04 de 2018.
+> Exercícios explorando os conceitos básicos de JavaScript realizados no curso do Reprograma no período de 23/03 à 06/04 de 2018.
 ---
 
 
